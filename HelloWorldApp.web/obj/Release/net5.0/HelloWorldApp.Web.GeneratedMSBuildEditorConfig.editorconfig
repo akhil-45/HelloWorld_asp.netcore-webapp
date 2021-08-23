@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = HelloWorldApp.web
-build_property.ProjectDir = C:\Users\munigantia\Source\Repos\HelloWorld_asp.netcore-webapp\HelloWorldApp.web\
+build_property.ProjectDir = C:\Users\munigantia\source\repos\HelloWorld_asp.netcore-webapp\HelloWorldApp.web\
